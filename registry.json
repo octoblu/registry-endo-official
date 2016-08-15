@@ -1,7 +1,7 @@
 {
   "name": "Octoblu Official Endos",
   "documentation": "https://meshblu-connectors.readme.io",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "items": [
     {
       "_id": "octoblu-endo-twitter",
@@ -11,7 +11,8 @@
       "tags": ["Social"],
       "githubSlug": "octoblu/endo-twitter",
       "createUri": "https://endo-twitter.octoblu.com",
-      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid"
+      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "logoUri": "https://s3-us-west-2.amazonaws.com/octoblu-icons/device/twitter.svg"
     }
   ]
 }
