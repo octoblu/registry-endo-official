@@ -1,8 +1,30 @@
 {
   "name": "Octoblu Official Endos",
   "documentation": "https://meshblu-connectors.readme.io",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "items": [
+    {
+      "_id": "octoblu-endo-github",
+      "name": "Github (beta)",
+      "description": "GitHub is a web-based Git repository hosting service, that is the best place to share code with friends, co-workers, classmates, and complete strangers. Also offers distributed revision control and source code management functionalities to fork projects, send pull requests, and monitor development.",
+      "type": "endo:github",
+      "tags": ["Developer Tools"],
+      "githubSlug": "octoblu/endo-github",
+      "createUri": "https://endo-github.octoblu.com",
+      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "iconUri": "https://s3-us-west-2.amazonaws.com/octoblu-icons/device/github.svg"
+    },
+    {
+      "_id": "octoblu-endo-sendgrid",
+      "name": "SendGrid (beta)",
+      "description": "Send email using the SendGrid API!",
+      "type": "endo:sendgrid",
+      "tags": ["Email"],
+      "githubSlug": "octoblu/endo-sendgrid",
+      "createUri": "https://endo-sendgrid.octoblu.com",
+      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "iconUri": "https://s3-us-west-2.amazonaws.com/octoblu-icons/device/sendgrid.svg"
+    },
     {
       "_id": "octoblu-endo-twitter",
       "name": "Twitter (beta)",
