@@ -1,0 +1,17 @@
+{
+  "name": "Octoblu Official Endos",
+  "documentation": "https://meshblu-connectors.readme.io",
+  "version": "1.0.0",
+  "items": [
+    {
+      "_id": "octoblu-endo-twitter",
+      "name": "Twitter (beta)",
+      "description": "An online social networking service that enables users to send and read short 140-character messages called \"tweets\". Search and post tweets, update status data, user information, and much more.",
+      "type": "endo:twitter",
+      "tags": ["Social"],
+      "githubSlug": "octoblu/endo-twitter",
+      "createUri": "https://endo-twitter.octoblu.com",
+      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid"
+    }
+  ]
+}
