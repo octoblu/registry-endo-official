@@ -35,6 +35,17 @@
       "createUri": "https://endo-twitter.octoblu.com",
       "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
       "iconUri": "https://s3-us-west-2.amazonaws.com/octoblu-icons/device/twitter.svg"
+    },
+    {
+      "_id": "octoblu-slurry-twitter",
+      "name": "Twitter Streaming (beta)",
+      "description": "An online social networking service that enables users to send and read short 140-character messages called \"tweets\". Search and post tweets, update status data, user information, and much more.",
+      "type": "slurry:twitter",
+      "tags": ["Social"],
+      "githubSlug": "octoblu/slurry-twitter",
+      "createUri": "https://slurry-twitter.octoblu.com",
+      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "iconUri": "https://s3-us-west-2.amazonaws.com/octoblu-icons/device/twitter.svg"
     }
   ]
 }
