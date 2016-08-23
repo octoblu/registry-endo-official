@@ -15,6 +15,17 @@
       "iconUri": "https://icons.octoblu.com/device/github.svg"
     },
     {
+      "_id": "octoblu-endo-meshblu",
+      "name": "Meshblu (beta)",
+      "description": "Meshblu is the core of the Octoblu infrastructure.",
+      "type": "endo:meshblu",
+      "tags": ["Developer Tools"],
+      "githubSlug": "octoblu/endo-meshblu",
+      "createUri": "https://endo-meshblu.octoblu.com",
+      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "iconUri": "https://icons.octoblu.com/channel/meshblu-http.svg"
+    },
+    {
       "_id": "octoblu-endo-sendgrid",
       "name": "SendGrid (beta)",
       "description": "Send email using the SendGrid API!",
