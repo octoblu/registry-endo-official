@@ -79,6 +79,17 @@
       "createUri": "https://slurry-slack-bot.octoblu.com",
       "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
       "iconUri": "https://icons.octoblu.com/channel/slack.svg"
+    },
+    {
+      "_id": "octoblu-slurry-salesforce",
+      "name": "Salesforce Streaming (beta)",
+      "description": "",
+      "type": "slurry:salesforce",
+      "tags": ["Productivity"],
+      "githubSlug": "octoblu/slurry-salesforce",
+      "createUri": "https://slurry-salesforce.octoblu.com",
+      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "iconUri": "https://icons.octoblu.com/channel/salesforce.svg"
     }
   ]
 }
