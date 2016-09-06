@@ -85,7 +85,7 @@
       "name": "Salesforce Streaming (beta)",
       "description": "",
       "type": "slurry:salesforce",
-      "tags": ["Productivity"],
+      "tags": ["Office"],
       "githubSlug": "octoblu/slurry-salesforce",
       "createUri": "https://slurry-salesforce.octoblu.com",
       "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
