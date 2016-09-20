@@ -1,7 +1,7 @@
 {
   "name": "Octoblu Official Endos",
   "documentation": "https://meshblu-connectors.readme.io",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "items": [
     {
       "_id": "octoblu-endo-github",
@@ -48,15 +48,15 @@
       "iconUri": "https://icons.octoblu.com/device/twitter.svg"
     },
     {
-      "_id": "octoblu-slurry-twitter",
-      "name": "Twitter Streaming (beta)",
-      "description": "An online social networking service that enables users to send and read short 140-character messages called \"tweets\". Search and post tweets, update status data, user information, and much more.",
-      "type": "slurry:twitter",
-      "tags": ["Social"],
-      "githubSlug": "octoblu/slurry-twitter",
-      "createUri": "https://slurry-twitter.octoblu.com",
+      "_id": "octoblu-slurry-salesforce",
+      "name": "Salesforce Streaming (beta)",
+      "description": "",
+      "type": "slurry:salesforce",
+      "tags": ["Office"],
+      "githubSlug": "octoblu/slurry-salesforce",
+      "createUri": "https://slurry-salesforce.octoblu.com",
       "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
-      "iconUri": "https://icons.octoblu.com/device/twitter.svg"
+      "iconUri": "https://icons.octoblu.com/channel/salesforce.svg"
     },
     {
       "_id": "octoblu-slurry-slack",
@@ -81,15 +81,15 @@
       "iconUri": "https://icons.octoblu.com/channel/slack.svg"
     },
     {
-      "_id": "octoblu-slurry-salesforce",
-      "name": "Salesforce Streaming (beta)",
-      "description": "",
-      "type": "slurry:salesforce",
-      "tags": ["Office"],
-      "githubSlug": "octoblu/slurry-salesforce",
-      "createUri": "https://slurry-salesforce.octoblu.com",
+      "_id": "octoblu-slurry-twitter",
+      "name": "Twitter Streaming (beta)",
+      "description": "An online social networking service that enables users to send and read short 140-character messages called \"tweets\". Search and post tweets, update status data, user information, and much more.",
+      "type": "slurry:twitter",
+      "tags": ["Social"],
+      "githubSlug": "octoblu/slurry-twitter",
+      "createUri": "https://slurry-twitter.octoblu.com",
       "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
-      "iconUri": "https://icons.octoblu.com/channel/salesforce.svg"
+      "iconUri": "https://icons.octoblu.com/device/twitter.svg"
     }
   ]
 }
