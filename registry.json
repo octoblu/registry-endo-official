@@ -56,7 +56,7 @@
       "githubSlug": "octoblu/slurry-exchange",
       "createUri": "https://slurry-exchange.octoblu.com",
       "configureUri": "https://app.octoblu.com/device/:uuid",
-      "iconUri": "http://cdn.octoblu.com/icons/slurries/exchange.svg"
+      "iconUri": "https://cdn.octoblu.com/icons/slurries/exchange.svg"
     },
     {
       "_id": "octoblu-slurry-salesforce",
