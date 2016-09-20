@@ -1,7 +1,7 @@
 {
   "name": "Octoblu Official Endos",
   "documentation": "https://meshblu-connectors.readme.io",
-  "version": "1.3.2",
+  "version": "1.8.2",
   "items": [
     {
       "_id": "octoblu-endo-github",
