@@ -48,6 +48,17 @@
       "iconUri": "https://icons.octoblu.com/device/twitter.svg"
     },
     {
+      "_id": "octoblu-slurry-exchange",
+      "name": "Exchange Streaming (beta)",
+      "description": "Stream exchange calendar notifications.",
+      "type": "slurry:exchange",
+      "tags": ["Office"],
+      "githubSlug": "octoblu/slurry-exchange",
+      "createUri": "https://slurry-exchange.octoblu.com",
+      "configureUri": "https://app.octoblu.com/device/:uuid",
+      "iconUri": "http://cdn.octoblu.com/icons/slurries/exchange.svg"
+    },
+    {
       "_id": "octoblu-slurry-salesforce",
       "name": "Salesforce Streaming (beta)",
       "description": "",
