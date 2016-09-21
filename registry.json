@@ -113,6 +113,6 @@
       "createUri": "https://endo-exchange.octoblu.com",
       "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
       "iconUri": "https://cdn.octoblu.com/icons/slurries/exchange.svg"
-    },
+    }
   ]
 }
