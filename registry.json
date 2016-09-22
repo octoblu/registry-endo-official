@@ -11,7 +11,7 @@
       "tags": ["Developer Tools"],
       "githubSlug": "octoblu/endo-github",
       "createUri": "https://endo-github.octoblu.com",
-      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "configureUri": "https://app.octoblu.com/device/:uuid",
       "iconUri": "https://icons.octoblu.com/device/github.svg"
     },
     {
@@ -22,7 +22,7 @@
       "tags": ["Developer Tools"],
       "githubSlug": "octoblu/endo-meshblu",
       "createUri": "https://endo-meshblu.octoblu.com",
-      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "configureUri": "https://app.octoblu.com/device/:uuid",
       "iconUri": "https://icons.octoblu.com/channel/meshblu-http.svg"
     },
     {
@@ -33,7 +33,7 @@
       "tags": ["Email"],
       "githubSlug": "octoblu/endo-sendgrid",
       "createUri": "https://endo-sendgrid.octoblu.com",
-      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "configureUri": "https://app.octoblu.com/device/:uuid",
       "iconUri": "https://icons.octoblu.com/device/sendgrid.svg"
     },
     {
@@ -44,7 +44,7 @@
       "tags": ["Social"],
       "githubSlug": "octoblu/endo-twitter",
       "createUri": "https://endo-twitter.octoblu.com",
-      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "configureUri": "https://app.octoblu.com/device/:uuid",
       "iconUri": "https://icons.octoblu.com/device/twitter.svg"
     },
     {
@@ -66,7 +66,7 @@
       "tags": ["Office"],
       "githubSlug": "octoblu/slurry-salesforce",
       "createUri": "https://slurry-salesforce.octoblu.com",
-      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "configureUri": "https://app.octoblu.com/device/:uuid",
       "iconUri": "https://icons.octoblu.com/channel/salesforce.svg"
     },
     {
@@ -77,7 +77,7 @@
       "tags": ["Social"],
       "githubSlug": "octoblu/slurry-slack",
       "createUri": "https://slurry-slack.octoblu.com",
-      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "configureUri": "https://app.octoblu.com/device/:uuid",
       "iconUri": "https://icons.octoblu.com/channel/slack.svg"
     },
     {
@@ -88,7 +88,7 @@
       "tags": ["Social"],
       "githubSlug": "octoblu/slurry-slack-bot",
       "createUri": "https://slurry-slack-bot.octoblu.com",
-      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "configureUri": "https://app.octoblu.com/device/:uuid",
       "iconUri": "https://icons.octoblu.com/channel/slack.svg"
     },
     {
@@ -99,7 +99,7 @@
       "tags": ["Social"],
       "githubSlug": "octoblu/slurry-twitter",
       "createUri": "https://slurry-twitter.octoblu.com",
-      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "configureUri": "https://app.octoblu.com/device/:uuid",
       "iconUri": "https://icons.octoblu.com/device/twitter.svg"
     },
     {
@@ -111,7 +111,7 @@
       "tags": ["Office"],
       "githubSlug": "octoblu/endo-exchange",
       "createUri": "https://endo-exchange.octoblu.com",
-      "configureUri": "https://endo-manager.octoblu.com/endos/configure/:uuid",
+      "configureUri": "https://app.octoblu.com/device/:uuid",
       "iconUri": "https://cdn.octoblu.com/icons/slurries/exchange.svg"
     }
   ]
