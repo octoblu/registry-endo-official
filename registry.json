@@ -101,18 +101,6 @@
       "createUri": "https://slurry-twitter.octoblu.com",
       "configureUri": "https://app.octoblu.com/device/:uuid",
       "iconUri": "https://icons.octoblu.com/device/twitter.svg"
-    },
-    {
-      "_id": "octoblu-endo-exchange",
-      "name": "Exchange (beta)",
-      "description": "",
-      "description": "Stream exchange calendar notifications.",
-      "type": "endo:exchange",
-      "tags": ["Office"],
-      "githubSlug": "octoblu/endo-exchange",
-      "createUri": "https://endo-exchange.octoblu.com",
-      "configureUri": "https://app.octoblu.com/device/:uuid",
-      "iconUri": "https://cdn.octoblu.com/icons/slurries/exchange.svg"
     }
   ]
 }
