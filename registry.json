@@ -113,6 +113,17 @@
       "createUri": "https://endo-exchange.octoblu.com",
       "configureUri": "https://app.octoblu.com/device/:uuid",
       "iconUri": "https://cdn.octoblu.com/icons/slurries/exchange.svg"
+    },
+    {
+      "_id": "octoblu-endo-podio",
+      "name": "Podio (beta)",
+      "description": "Use the Podio API to automate your workspace.",
+      "type": "endo:podio",
+      "tags": ["Productivity"],
+      "githubSlug": "octoblu/endo-podio",
+      "createUri": "https://endo-podio.octoblu.com",
+      "configureUri": "https://app.octoblu.com/device/:uuid",
+      "iconUri": "https://s3-us-west-2.amazonaws.com/octoblu-icons/channel/podio.svg"
     }
   ]
 }
