@@ -1,7 +1,7 @@
 {
   "name": "Octoblu Official Endos",
   "documentation": "https://meshblu-connectors.readme.io",
-  "version": "1.9.2",
+  "version": "1.10.0",
   "items": [
     {
       "_id": "octoblu-endo-github",
@@ -35,6 +35,17 @@
       "createUri": "https://endo-sendgrid.octoblu.com",
       "configureUri": "https://app.octoblu.com/device/:uuid",
       "iconUri": "https://icons.octoblu.com/device/sendgrid.svg"
+    },
+    {
+      "_id": "octoblu-endo-slack-bot",
+      "name": "Slack Bot (beta)",
+      "description": "Connect to slack with a bot account",
+      "type": "endo:slack-bot",
+      "tags": ["Social"],
+      "githubSlug": "octoblu/endo-slack-bot",
+      "createUri": "https://endo-slack-bot.octoblu.com",
+      "configureUri": "https://app.octoblu.com/device/:uuid",
+      "iconUri": "https://icons.octoblu.com/channel/slack.svg"
     },
     {
       "_id": "octoblu-endo-twitter",
