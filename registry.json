@@ -135,6 +135,17 @@
       "createUri": "https://endo-podio.octoblu.com",
       "configureUri": "https://app.octoblu.com/device/:uuid",
       "iconUri": "https://s3-us-west-2.amazonaws.com/octoblu-icons/channel/podio.svg"
+    },
+    {
+      "_id": "octoblu-endo-hackster",
+      "name": "Hackster.io",
+      "description": "Access the Hackster.io API and interact with projects, products, users and more!",
+      "type": "endo:hackster",
+      "tags": ["Maker"],
+      "githubSlug": "octoblu/endo-hackster",
+      "createUri": "https://endo-hackster.octoblu.com",
+      "configureUri": "https://app.octoblu.com/device/:uuid",
+      "iconUri": "https://s3-us-west-2.amazonaws.com/octoblu-icons/channel/hackster.svg"
     }
   ]
 }
